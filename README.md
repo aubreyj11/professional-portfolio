@@ -1,17 +1,15 @@
-# professional-portfolio
+# Professional Portfolio
+#### Aubrey Johnston
+<br>
 
- float: none;
-    display: inline-block;
-    text-align: center;
-    background-color: var(--navColor);
-    margin-top: 0;
+## Description
+This site's purpose is to showcase the projects that I have completed, give information about who I am, and give potential employers possible ways to contact me. I learned through this project to be very mindful when applying multiple CSS elements and not to let certain things overlap others. This website solves the problem of trying to find a place to showcase all of my projects. 
+<br>
 
 
-        display: flex;
-    justify-content:space-between;
-    align-items: center;
-    font-size: 40px;
-    margin-left:  10px;
-    margin-top: 30px;
-    background-color: var(--navColor);
-    padding:0;
+## Instalation
+No installation required. Just visit my deployed website link.
+<br>
+
+## Usage
+Click the options in the nagivation bar along the top of the screen to be taken directly to the corresponding section below. 
