@@ -1,6 +1,6 @@
 const toggleButton = document.getElementsByClassName('toggle-button')[0]
-const li = document.getElementsByClassName('li')[0]
+const ul = document.getElementsByTagName('ul')[0]
 
 toggleButton.addEventListener('click', () => {
-    li.classList.toggle('active')
+    ul.classList.toggle('active')
 })
