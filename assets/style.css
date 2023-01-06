@@ -181,7 +181,7 @@ hr {
 
 
 .github-img {
-    float: left;
+    /* float: left; */
     padding: 0;
     margin: 0;
 }
