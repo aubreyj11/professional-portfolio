@@ -15,8 +15,10 @@ This site's purpose is to showcase the projects that I have completed, give info
 <br>
 
 
-## Instalation
-No installation required. Just visit my deployed website link.
+## Installation
+No installation required. Just visit my deployed website link:
+<br>
+https://aubreyj11.github.io/professional-portfolio/
 <br>
 
 ## Usage
