@@ -44,6 +44,7 @@ li a:hover {
     font-size: 40px;
     font-family: 'Courier New', sans-serif;
     margin: 50px;
+   
 
 
 }
@@ -56,6 +57,7 @@ li a:hover {
     font-family:'Courier New', sans-serif;
 
 
+
 }
 
 section {
@@ -66,9 +68,6 @@ section {
     margin: 80px;
     padding: 30px;
     font-family: 'Georgia', sans-serif;
-
-
-
 }
 
 .contact-me {
@@ -105,6 +104,8 @@ section {
     color: var(--sectionColor);
     position: absolute;
     text-align: center;
+    height: 0;
+    
 }
 
 .p {
@@ -176,13 +177,14 @@ hr {
 
 .my-work-images:hover {
     border-color: rgb(21, 106, 21);
-    height: 302px;
+    
 }
 
 
 .github-img {
     padding: 0;
     margin: 0;
+    
 }
 
 .contactOptions1 {
@@ -218,7 +220,8 @@ hr {
 }
 
 .width302 {
-    width: 302px;
+    width: 572px;
+    
 }
 
 .width493 {
@@ -244,7 +247,6 @@ hr {
     /* top: 10%; */
     line-height: 45px;
     font-size: 16px;
-    position: center;
 }
 
 .toggle-button {
@@ -265,6 +267,8 @@ hr {
     background-color: rgb(79, 98, 82);
     border-radius: 10px;
 }
+
+
 
 @media all and (max-width: 900px) {
     /* ul {
@@ -300,6 +304,7 @@ hr {
     .navbar {
         flex-direction: column;
         align-items: flex-start;
+        width: 100%;
     }
 
     section{
@@ -312,9 +317,21 @@ hr {
 
 }
 
+@media (max-width: 1318px) {
+    .p2 { 
+        font-size: 14px;
+        position: center;
+    }
+    
+    body {
+        max-width: 100%;
+    }
+}
+
 @media (max-width: 450px) {
     .p {
         font-size: 12px;
+        flex-direction: column;
     }
 }
 
