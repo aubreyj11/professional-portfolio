@@ -17,7 +17,7 @@ This site's purpose is to showcase the projects that I have completed, give info
 
 
 ## Installation
-No installation required. Just visit my deployed website link:
+No installation required. Just visit my deployed website link here:
 <br>
 https://aubreyj11.github.io/professional-portfolio/
 <br>
